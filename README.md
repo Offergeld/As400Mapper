@@ -1,2 +1,3 @@
-# as400mapper
-Object-relational mapping (ORM) for IBM iSeries AS400 DB2/DB400 Database.
+# As400Mapper
+THIS PACKAGE IS DEPRECATED.
+PLEASE USE Offergeld.Db2Orm.
